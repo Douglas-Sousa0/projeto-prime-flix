@@ -16,7 +16,7 @@ Detalhes do filme
 ![image](https://github.com/Douglas-Sousa0/projeto-prime-flix/assets/66291005/3c3b026b-6aeb-413b-a55c-ecfab7788dc9)
 
 Lista de filmes salvos
-![image](https://github.com/Douglas-Sousa0/projeto-prime-flix/assets/66291005/82cd75da-7931-4992-b384-126572344abd)
+![image](https://github.com/Douglas-Sousa0/projeto-prime-flix/assets/66291005/65a4ae30-7377-4409-b42e-7c640e63c64b)
 
 # 🔧 Tecnologias utilizadas
 
