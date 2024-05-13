@@ -13,9 +13,11 @@ function Filme(){
 
     useEffect(() => {
         async function loadFilme(){
+            const chaveApi = ''
+            
             await api.get(`/movie/${id}`, {
                 params: {
-                    api_key: '3792dff61fa818fad62ad3be22ed5efb',
+                    api_key: chaveApi,
                     language: 'pt-BR'
                 }
             })
