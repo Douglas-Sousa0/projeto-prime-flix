@@ -14,9 +14,11 @@ function Home(){
     useEffect(() => {
 
         async function loadFilmes(){
+            const chaveApi = ''
+            
             const response = await api.get('movie/now_playing', {
                 params: {
-                    api_key: '3792dff61fa818fad62ad3be22ed5efb',
+                    api_key: chaveApi,
                     language: 'pt-BR',
                     page: 1
                 }
